@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Easy Quiz Poly
 
 You can use the [editor on GitHub](https://github.com/trfi/quizpoly/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
