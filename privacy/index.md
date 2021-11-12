@@ -1,3 +1,5 @@
+## Easy Quiz Poly
+
 **Privacy Policy**
 
 Truong Fiu built the Easy Quiz Poly app as a Freemium app. This SERVICE is provided by Truong Fiu at no cost and is intended for use as is.
